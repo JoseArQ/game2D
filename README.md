@@ -26,8 +26,6 @@ Características principales:
 - Pantalla de Game Over con reinicio
 - Puntaje basado en tiempo sobrevivido
 
-> *(Esta descripción no incluye la parte de dificultad porque se solicitó omitirla.)*
-
 ---
 
 ## 🛠️ Requisitos
