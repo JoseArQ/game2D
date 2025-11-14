@@ -19,10 +19,10 @@ A medida que pasa el tiempo, tu **puntaje aumenta automáticamente**, y puedes c
 
 Características principales:
 
-- Movimiento fluido usando **WASD**
+- Movimiento fluido usando el conjunto de teclas **WASD**
 - Enemigos con movimiento autónomo y rebotes en las paredes
 - Pantalla de menú inicial
-- Pausa en cualquier momento
+- Pausa en cualquier momento usando la tecla espacio
 - Pantalla de Game Over con reinicio
 - Puntaje basado en tiempo sobrevivido
 
